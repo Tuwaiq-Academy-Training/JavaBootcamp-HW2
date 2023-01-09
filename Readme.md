@@ -47,9 +47,9 @@ Input a number: 20
 
 
 ## 6.Write a program that checks the role of the user
-### If the role is admin print "welcome admin"
-### If the role is superuser print "welcome superuser"
-### If the role is user print "welcome user"
+If the role is admin print "welcome admin"
+If the role is superuser print "welcome superuser"
+If the role is user print "welcome user"
 ### (tip: use if else)
 
 
