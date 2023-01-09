@@ -24,29 +24,22 @@ Input a String: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
 the quick brown fox jumps over the lazy dog.
 
 
-## 3.Write a Java program and compute the sum of the digits of an integer. 
-### Test Data:
-Input an integer: 25
 
-### Expected Output
-The sum of the digits is: 7
-
-
-## 4.Write a Java program to reverse a string.  
+## 3.Write a Java program to reverse a string.  
 ### Test Data:
 Input a string: The quick brown fox
 ### Expected Output:
 Reverse string: xof nworb kciuq ehT
 
 
-## 5.Write a Java program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. (use if-statement) 
+## 4.Write a Java program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. (use if-statement) 
 ### Test Data:
 Input a number: 20  
 ### Expected Output:
 1
 
 
-## 6.Write a program that checks the role of the user
+## 5.Write a program that checks the role of the user
 If the role is admin print "welcome admin"
 
 If the role is superuser print "welcome superuser"
@@ -57,7 +50,7 @@ If the role is user print "welcome user"
 
 
 
-## 7.Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer. 
+## 6.Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer. 
 ### Test Data:
 Input the first number: 5
 
@@ -68,7 +61,7 @@ Input the third number: 15
 The result is: true
 
 
-## 8.Take three numbers from the user and print the greatest number.  
+## 7.Take three numbers from the user and print the greatest number.  
 ### Test Data
 Input the 1st number: 25
 
@@ -80,7 +73,7 @@ The greatest: 87
 
 
 
-## 9.Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. 
+## 8.Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. 
 ### Test Data
 Input number: 3
 ### Expected Output:
