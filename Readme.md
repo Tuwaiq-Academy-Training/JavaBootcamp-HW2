@@ -56,8 +56,10 @@ Input a number: 20
 
 ## 7.Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer. 
 ### Test Data:
-Input the first number: 5                                             
-Input the second number: 10                                            
+Input the first number: 5
+
+Input the second number: 10
+
 Input the third number: 15   
 ### Expected Output:
 The result is: true
@@ -66,7 +68,9 @@ The result is: true
 ## 8.Take three numbers from the user and print the greatest number.  
 ### Test Data
 Input the 1st number: 25
+
 Input the 2nd number: 78
+
 Input the 3rd number: 87
 ### Expected Output :
 The greatest: 87
